@@ -20,7 +20,7 @@
         </navigation>
 
         <div id="content">
-
+            hello admin
         </div>
 
         <footer>

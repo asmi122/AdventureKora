@@ -1,3 +1,5 @@
+<?php require_once('../../initialize.php'); ?>
+
 <!doctype html>
     <head>
         <title> AK </title>

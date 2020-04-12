@@ -2,6 +2,7 @@
     <head>
         <title> AK </title>
         <meta charset="utf-8">
+        <link rel="stylesheet" media="all" href="../stylesheet/admin.css"/>
 
     </head>
 

@@ -3,7 +3,7 @@
 ?>
 <!doctype html>
     <head>
-        <title> AK11 - <?php echo $page_title;?> </title>
+        <title> AK- <?php echo $page_title;?> </title>
         <meta charset="utf-8">
         <link rel="stylesheet" media="all" href="../stylesheet/admin.css"/>
 
@@ -11,7 +11,7 @@
 
     <body>
         <header>
-            <h1> AK Admin  Areaaaaa</h1>
+            <h1> AK Admin  Area</h1>
         </header>
 
 

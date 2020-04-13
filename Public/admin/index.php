@@ -1,5 +1,6 @@
-<?php require_once('../../initialize.php'); ?>
+<?php require_once('../../Private/initialize.php'); ?>
 
+<?php $page_title = 'Admin Menu'; ?>
 <?php include('../../Private/shared/admin_header.php'); ?>
 
 <div id="content">

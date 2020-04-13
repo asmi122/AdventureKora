@@ -1,6 +1,9 @@
+<?php
+    if(!isset($page_title)) {$page_title='Staff Area';}
+?>
 <!doctype html>
     <head>
-        <title> AK </title>
+        <title> AK11 - <?php echo $page_title;?> </title>
         <meta charset="utf-8">
         <link rel="stylesheet" media="all" href="../stylesheet/admin.css"/>
 
@@ -8,7 +11,7 @@
 
     <body>
         <header>
-            <h1> AK Admin  Area</h1>
+            <h1> AK Admin  Areaaaaa</h1>
         </header>
 
 

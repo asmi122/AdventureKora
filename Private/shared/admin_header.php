@@ -5,7 +5,8 @@
     <head>
         <title> AK- <?php echo $page_title;?> </title>
         <meta charset="utf-8">
-        <link rel="stylesheet" media="all" href="../stylesheet/admin.css"/>
+        <link rel="stylesheet" media="all" href="<?php echo
+        url_for('/stylesheet/admin.css'); ?>" />
 
     </head>
 
@@ -17,7 +18,7 @@
 
         <navigation>
             <ul>
-                <li><a href="<?php echo WWW_ROOT . '/admin/index.php';?>">Menu</a></li>
+                <li><a href="<?php echo url_for ('/admin/index.php'); ?>">Menu</a></li>
 
             </ul>
         </navigation>

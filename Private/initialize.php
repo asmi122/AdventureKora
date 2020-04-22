@@ -21,12 +21,4 @@ $doc_root = substr($_SERVER['SCRIPT_NAME'], 0, $public_end);
   
 require_once('functions.php');
 
-function u($string=""){
-    return urlencode($string);
-}
-
-function raw_u($string=""){
-    return rawurlencode($string);
-}
-
 ?>

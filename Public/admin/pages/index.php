@@ -1,11 +1,11 @@
 <?php require_once('../../../Private/initialize.php'); ?>
 
 <?php
-  $subjects = [
-    ['id' => '1', 'position' => '1', 'visible' => '1', 'menu_name' => 'About Adventure Kora'],
-    ['id' => '2', 'position' => '2', 'visible' => '1', 'menu_name' => 'Consumer'],
-    ['id' => '3', 'position' => '3', 'visible' => '1', 'menu_name' => 'Small Business'],
-    ['id' => '4', 'position' => '4', 'visible' => '1', 'menu_name' => 'Commercial'],
+  $pages = [
+    ['id' => '1', 'position' => '1', 'visible' => '1', 'menu_name' => 'Adventure Kora'],
+    ['id' => '2', 'position' => '2', 'visible' => '1', 'menu_name' => 'Contact Us'],
+    ['id' => '3', 'position' => '3', 'visible' => '1', 'menu_name' => 'About Us'],
+    ['id' => '4', 'position' => '4', 'visible' => '1', 'menu_name' => 'History'],
   ];
 ?>
 
@@ -14,10 +14,10 @@
 
 <div id="content">
 <div class="subjects listing">
-    <h1>Subjects</h1>
+    <h1>Pages</h1>
 
     <div class="actions">
-      <a class="action" href="">Create New Subject</a>
+      <a class="action" href="">Create New Pages</a>
 </div>
 
 <table class="list">
@@ -31,7 +31,7 @@
         <th>&nbsp;</th>
   	  </tr>
 
-      <?php foreach($subjects as $subject) { ?>
+      <?php foreach($pages as $page) { ?>
         <tr>
           <td><?php echo h($page['id']); ?></td>
           <td><?php echo h($page['position']); ?></td>

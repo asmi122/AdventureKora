@@ -1,5 +1,8 @@
 <?php
-    // Assign file paths to PHP constants
+
+ob_start(); //output buffering is turned on
+
+// Assign file paths to PHP constants
 // __FILE__ returns the current path to this file
 // dirname() returns the path to the parent directory
 define("PRIVATE_PATH", dirname(__FILE__));

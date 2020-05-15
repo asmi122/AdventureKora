@@ -588,7 +588,7 @@ ul.navbar-nav>li>a i {
 }
 
 #footer .footer-top .footer-info h3 {
-  font-size: 36px;
+  font-size: 25px;
   margin: 0 0 20px 0;
   padding: 2px 0 2px 0;
   line-height: 1;
@@ -604,7 +604,7 @@ ul.navbar-nav>li>a i {
 #footer .footer-top .footer-info button {
     background-color:yellow;
     color:black;
-    padding:8px 0;
+    padding:8px 10px;
     text-align:center;
     height:40px;
     font-size:16px;
@@ -624,6 +624,7 @@ ul.navbar-nav>li>a i {
   width: 36px;
   height: 36px;
   transition: 0.3s;
+  margin-top: 37px;
 }
 
 #footer .footer-top .social-links a:hover {
@@ -676,39 +677,6 @@ ul.navbar-nav>li>a i {
 
 #footer .footer-top .footer-links ul a:hover {
   color: yellow;
-}
-
-#footer .footer-top .footer-newsletter form {
-  margin-top: 30px;
-  background: #fff;
-  padding: 6px 10px;
-  position: relative;
-  border-radius: 4;
-}
-
-#footer .footer-top .footer-newsletter form input[type="email"] {
-  border: 0;
-  padding: 4px;
-  width: calc(100% - 110px);
-}
-
-#footer .footer-top .footer-newsletter form input[type="submit"] {
-  position: absolute;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  border: 0;
-  background: none;
-  font-size: 16px;
-  padding: 0 20px;
-  background: yellow;
-  color: #fff;
-  transition: 0.3s;
-  border-radius: 4;
-}
-
-#footer .footer-top .footer-newsletter form input[type="submit"]:hover {
-  background: yellow;
 }
 
 #footer .copyright {

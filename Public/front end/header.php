@@ -72,7 +72,7 @@
 	<!-------------------navigation bar---------------------->
 	<nav class="navbar navbar-expand-sm bg-dark navbar-dark">
         <!-- Brand -->
-        <a class="navbar-brand" href="#"></a>
+        <a class="navbar-brand" href="#"><img src="images/kora.png"></a>
 		  <!-- Links -->
               <ul class="navbar-nav">
                 <li class="nav-item">

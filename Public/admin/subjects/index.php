@@ -9,23 +9,24 @@
   ];
 ?>
 
-<?php $page_title = 'Subjects'; ?>
+<?php $page_title = 'Blogs'; ?>
 <?php include(SHARED_PATH. '/admin_header.php'); ?>
 
 <div id="content">
 <div class="subjects listing">
-    <h1>Subjects</h1>
+    <h1>Blogs</h1>
 
     <div class="actions">
-      <a class="action" href="<?php echo url_for('/admin/subjects/new.php'); ?>">Create New Subject</a>
+      <a class="action" href="<?php echo url_for('/admin/subjects/new.php'); ?>">Create New Blog</a>
 </div>
 
 <table class="list">
   	  <tr>
-        <th>ID</th>
-        <th>Position</th>
+        <th>Blog ID</th>
+        <th>Title</th>
         <th>Visible</th>
-  	    <th>Name</th>
+        <th>Description</th>
+  	    <th>Img Path</th>
   	    <th>&nbsp;</th>
   	    <th>&nbsp;</th>
         <th>&nbsp;</th>

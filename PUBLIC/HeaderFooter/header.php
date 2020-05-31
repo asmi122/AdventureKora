@@ -82,11 +82,11 @@
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">Trip Type </a>
 						<div class="dropdown-menu">
-							<a href="#">Trekking</a>
-							<a href="#">Peak Climbing</a>
-							<a href="#">Tours</a>
-							<a href="#">Adventures Sports</a>
-							<a href="#">Volunteering</a>
+							<a href="Trekking.php">Trekking</a>
+							<a href="PeakClimbing.php">Peak Climbing</a>
+							<a href="Tours.php">Tours</a>
+							<a href="AdventureSports.php">Adventures Sports</a>
+							<a href="Volunteering.php">Volunteering</a>
 						</div>
 				</li>
 				<li class="nav-item">

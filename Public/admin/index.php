@@ -7,9 +7,11 @@
     <div id="main-menu">
         <h2>Main Menu</h2>
         <ul>
-            <li><a href="<?php echo url_for('/admin/subjects/index.php');?>">Subjects</a>
+        <li><a href="<?php echo url_for('/admin/subjects/index.php');?>">Blogs</a>
             </li>
-            <li><a href="<?php echo url_for('/admin/pages/index.php');?>">Pages</a>
+            <li><a href="<?php echo url_for('/admin/pages/index.php');?>">Trip Types</a>
+            </li>
+            <li><a href="<?php echo url_for('/admin/packages/index.php');?>">Trip Packages</a>
             </li>
         </ul>
     </div>

@@ -75,11 +75,11 @@
           <div class="col-lg-4 col-md-6 footer-links">
             <h4>Our Services</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Trekking</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Peak Climbing</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Tours</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Adventures Sports</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Volunteering</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="Trekking.php">Trekking</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="PeakClimbing.php">Peak Climbing</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="Tours.php">Tours</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="AdventureSports.php">Adventures Sports</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="Volunteering.php">Volunteering</a></li>
             </ul>
           </div>
        

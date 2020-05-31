@@ -52,12 +52,7 @@
             </div>
             <div class="col-md-6">
               <div class="d-flex justify-content-md-end justify-content-between">
-                <div class="info-box">
-					<div class="info-box-content" style="border-right-style: solid;border-right-width: 2px;padding-right: 10px;">
-						<p class="info-box-title"><i class="far fa-clock"></i>  Enquery Hours</p>
-						<p class="info-box-subtitle">Mon-Sat 9am - 6pm</p>
-					</div>
-				</div>
+                
 				<div class="info-box">
 					<div class="info-box-content" style="border-right-style: solid;border-right-width: 2px;padding-right: 10px; padding-left:10px;">
 						<p class="info-box-title"><i class="fas fa-phone"></i>  Call Us</p>

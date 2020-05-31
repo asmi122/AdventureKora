@@ -9,23 +9,23 @@
   ];
 ?>
 
-<?php $page_title = 'Pages'; ?>
+<?php $page_title = 'Trip Type'; ?>
 <?php include(SHARED_PATH. '/admin_header.php'); ?>
 
 <div id="content">
 <div class="subjects listing">
-    <h1>Pages</h1>
+    <h1>Trip Type</h1>
 
     <div class="actions">
-      <a class="action" href="">Create New Pages</a>
+      <a class="action" href="<?php echo url_for('/admin/pages/new.php'); ?>">Create New Pages</a>
 </div>
 
 <table class="list">
   	  <tr>
-        <th>ID</th>
+        <th>Trip ID</th>
         <th>Position</th>
         <th>Visible</th>
-  	    <th>Name</th>
+  	    <th>Trip Name</th>
   	    <th>&nbsp;</th>
   	    <th>&nbsp;</th>
         <th>&nbsp;</th>
@@ -38,7 +38,7 @@
           <td><?php echo $page['visible'] == 1 ? 'true' : 'false'; ?></td>
           <td><?php echo h($page['menu_name']); ?></td>
           <td><a class="action" href="<?php echo url_for('/admin/pages/show.php?id=' . h(u($page['id']))); ?>">View</a></td>
-          <td><a class="action" href="">Edit</a></td>
+          <td><a class="action" href="<?php echo url_for('/admin/pages/edit.php?id='. h(u($page['id']))); ?>">Edit</a></td>
           <td><a class="action" href="">Delete</a></td>
         </tr>
       <?php } ?>

@@ -38,7 +38,7 @@
        					</ol>
        					<div class="carousel-inner">
        						<div class="carousel-item active">
-       							<img src="images/slide-1.jpg" class="d-block w-100" alt="img1">
+       							<img src="images/img/slide1.jpg" class="d-block w-100" alt="img1">
 								<div class="carousel-caption">
 									<h1 class="wow fadeInLeftBig">A New Sky ,A New Life.</h1>
 									<div class="description wow fadeInUp">
@@ -50,7 +50,7 @@
 								</div>
        						</div>
        						<div class="carousel-item">
-       							<img src="images/slide1.jpg" class="d-block w-100" alt="img2">
+       							<img src="images/img/slide2.jpg" class="d-block w-100" alt="img2">
        							<div class="carousel-caption">
 									<h1 class="wow fadeInLeftBig">Tours</h1>
 									<div class="description wow fadeInUp">
@@ -62,7 +62,7 @@
 								</div>
        						</div>
        						<div class="carousel-item">
-       							<img src="images/slide-2.jpg" class="d-block w-100" alt="img3">
+       							<img src="images/img/slide3.jpeg" class="d-block w-100" alt="img3">
        							<div class="carousel-caption">
 									<h1 class="wow fadeInLeftBig">Adventure</h1>
 									<div class="description wow fadeInUp">
@@ -168,15 +168,15 @@
 			<div class="col-sm-4">
 				<div class="card">
 					<div class="image">
-						<img src="images/package-1.jpg">
+						<img src="images/img/package1.jpg" alt="Package 1" width="100%" height="180px" >
 					</div>
 					<div class="card-inner">
 						<div class="header">
-							<h2>Base Camp Trek</h2>
-							<h3>Everest Region</h3>
+							
+							<h5>Everest Base Camp Via Kongma la</h5>
 						</div>
 					<div class="content">
-						<p><i class="fas fa-calendar-day"></i> 21 Days</p>
+						<p><i class="fas fa-calendar-day"></i> 14 Days</p>
 					</div>
 					<a href="Trekking.php"><button type="button" class="btn">Book Now</button></a>
 				</div>
@@ -185,15 +185,15 @@
     <div class="col-sm-4">
 		<div class="card">
 			<div class="image">
-				<img src="images/package-2.jpg">
+				<img src="images/img/package2.jpg" alt="Package 2" width="100%" height="180px">
 			</div>
 			<div class="card-inner">
 				<div class="header">
-					<h2>Gokyo Lake Trek</h2>
-					<h3>Everest region</h2>
+					
+					<h5>Everest Base Camp with Gokyo Lake</h5>
 				</div>
 				<div class="content">
-					<p><i class="fas fa-calendar-day"></i> 14 Days</p>
+					<p><i class="fas fa-calendar-day"></i> 15 Days</p>
 				</div>
 				<a href="Trekking.php"><button type="button" class="btn">Book Now</button></a>
 		</div>
@@ -202,15 +202,14 @@
 <div class="col-sm-4">
   <div class="card">
     <div class="image">
-      <img src="images/package-3.jpg">
+      <img src="images/img/package3.jpg" alt="Package 3" width="100%" height="180px"> 
 	</div>
     <div class="card-inner">
       <div class="header">
-        <h2>Everest Three Pass Trek</h2>
-        <h3>Everest Region  </h3>
+	  <h5>Everest Base Camp</h5>
     </div>
     <div class="content">
-      <p><i class="fas fa-calendar-day"></i> 14 Days</p>
+      <p><i class="fas fa-calendar-day"></i> 12 Days</p>
     </div>
 	<a href="Trekking.php"><button type="button" class="btn">Book Now</button></a>
     </div>
@@ -220,15 +219,14 @@
 <div class="col-sm-4">
   <div class="card">
     <div class="image">
-      <img src="images/package-4.jpg">
+      <img src="images/img/package4.jpg" alt="Package 4" width="100%" height="180px">
     </div>
     <div class="card-inner">
       <div class="header">
-        <h2>Everest Three Pass Trek</h2>
-        <h3>Everest Region  </h3>
+	  <h5>Everest Three Passes</h5>
     </div>
     <div class="content">
-      <p><i class="fas fa-calendar-day"></i> 14 Days</p>
+      <p><i class="fas fa-calendar-day"></i> 18 Days</p>
     </div>
 	<a href="Trekking.php"><button type="button" class="btn">Book Now</button></a>
       </div>
@@ -236,15 +234,14 @@
 </div><div class="col-sm-4">
   <div class="card">
     <div class="image">
-      <img src="images/package-5.jpg">
+      <img src="images/img/package5.jpg" alt="Package 5" width="100%" height="180px">
     </div>
     <div class="card-inner">
       <div class="header">
-        <h2>Everest Three Pass Trek</h2>
-        <h3>Everest Region  </h3>
+	  <h5>Gokyo Lake Trek-12</h5>
     </div>
     <div class="content">
-      <p><i class="fas fa-calendar-day"></i> 14 Days</p>
+      <p><i class="fas fa-calendar-day"></i> 12 Days</p>
     </div>
 	<a href="Trekking.php"><button type="button" class="btn">Book Now</button></a>
       </div>
@@ -253,15 +250,14 @@
 <div class="col-sm-4">
   <div class="card">
     <div class="image">
-      <img src="images/package-2.jpg">
+      <img src="images/img/package6.jpg" alt="Package 6" width="100%" height="180px">
     </div>
     <div class="card-inner">
       <div class="header">
-        <h2>Everest Three Pass Trek</h2>
-        <h3>Everest Region </h3>
+	  <h5>Gokyo Lake with Renjo La</h5>
     </div>
     <div class="content">
-     <p><i class="fas fa-calendar-day"></i> 14 Days</p>
+     <p><i class="fas fa-calendar-day"></i> 12 Days</p>
     </div>
 	<a href="Trekking.php"><button type="button" class="btn">Book Now</button></a>
       </div>
@@ -281,23 +277,29 @@
     </div>
 </div>
 <!---------------------videp play section----------------->
-
-<div class= "iframe-container">
-	<iframe width="725" height="408" src="https://www.youtube.com/embed/Fty1UQamzvg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="videoSection">
+	<div class="videoTextcontainer">
+		<h4>Find your adventure in Nepal</h4><br><br>
+		<a href="Trekking.php"><button type="button" class="btn">Find your Trip</button></a>	
+	</div>
+	<div class= "iframe-container">
+	<iframe width="600px" height="355px" src="https://www.youtube.com/embed/Fty1UQamzvg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div>
 </div>
+	</div>
 
 <!-----------------------divider---------------------------->
 <div class="divider">
-   <div class="container-fluid">
-	   <div class="row">
-	   <h3><i class="fas fa-box-open"></i> Our Popular Blog Post</h3>
+   <div class="container-fluid" >
+	   <div class="row" >
+	   		<h3><i class="fas fa-box-open"></i> Our Blogs</h3>
         </div>
     </div>
 </div>
 <!---------------------Blog post----------------->
 
 
-	<div class="blog-container">
+<div class="blog-container">
 		<div class="row">
 			<div class="col-md-4">
 				<div class="single-blog">
@@ -305,7 +307,7 @@
 					<img src="./images/Blog1.jpg" alt="Post 1" >
 					<h2><a href="#">Adventures you should embark upon in Nepal </a></h2>
 					<p class = "blog-text">Trekking Mount Everest<br>Well, one of the most famous natural icons of Nepal is Mount Everest which is also one of the most adventurous one. </p>
-					<p><a href="Blog.php" class ="read-more-button">Read More</a>
+					<p><a href="#" class ="read-more-button">Read More</a>
 				<span><i class="fa fa-thumbs-o-up"></i>7 People like, <i class ="fa fa-comments-o"></i>3..</span>
 				</p>
 				</div>
@@ -315,9 +317,9 @@
 			<div class="single-blog">
 					<p class="blog-meta"> <span>May 25,2018</span></p>
 					<img src="./images/Blog2.jpg" alt="Post 1" >
-					<h2><a href="#">Why you can’t miss the Nepalese Cuisine?</a></h2>
+					<h2><a href="#">Why you can’ miss the Nepalese Cuisine?</a></h2>
 					<p class = "blog-text">Nepalese Cuisine?<br>Buckle up, as we take you on a joyous ride of the most exotic delicacies that are bound to leave you drooling.</br><br> </p>
-					<p><a href="Blog.php" class ="read-more-button">Read More</a>
+					<p><a href="#" class ="read-more-button">Read More</a>
 				<span><i class="fa fa-thumbs-o-up"></i>7 People like, <i class ="fa fa-comments-o"></i>3..</span>
 				</div>
 			</div>
@@ -327,7 +329,7 @@
 					<img src="./images/Blog3.jpg" alt="Post 1" >
 					<h2><a href="#">Things you need to know before trekking to ABC_ASJ_Final </a></h2>
 					<p class = "blog-text">Annapurna Base Camp is considered to be a moderate trekking route. Compared to other trekking routes in the Himalayas, ABC trek has a lot of accommodation</p>
-					<p><a href="Blog.php" class ="read-more-button">Read More</a>
+					<p><a href="#" class ="read-more-button">Read More</a>
 				<span><i class="fa fa-thumbs-o-up"></i>7 People like, <i class ="fa fa-comments-o"></i>3..</span>
 				</p>
 				</div>
@@ -335,6 +337,14 @@
 		</div>
 	</div>
 
+<!-----------------------divider---------------------------->
+<div class="divider">
+   <div class="container-fluid">
+	   <div class="row">
+	   <h3>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<i class="fas fa-box-open"></i>  Our Partnors</h3>
+        </div>
+    </div>
+</div>
 
 
 	<!-- Footer Start -->

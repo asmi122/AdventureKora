@@ -16,3 +16,8 @@ function myFunction() {
 $(".owl-carousel").owlCarousel();
 
 $('.single-item').slick();
+
+//form confirmation
+function myFunction() {
+    confirm("We received your form. we will contact you soon! Thanks!");
+}

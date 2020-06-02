@@ -26,11 +26,7 @@
         <div class="col-sm" style="align:right">
         
                 </div>
-    <div class="col-sm" style="padding-left: 80px;">
-      <a href="https://www.welcomenepal.com/"><img src="images/footer1.png"></a>
-      <a href="https://www.taan.org.np/"><img src="images/footer3.png"></a>
-      <a href="https://www.nepalmountaineering.org/"><img src="images/footer2.png"></a>
-    </div>
+    
     <div class="col-sm" style="align:left">
       
     </div>
@@ -62,7 +58,7 @@
           </div>
 
           <div class="col-lg-4 col-md-6 footer-links" style="padding-left: 100px;">
-            <h4>Useful Links</h4>
+            <h4 style="font-weight:bold">Useful Links</h4>
             <ul>
               <li><i class="bx bx-chevron-right"></i> <a href="index.php">Home</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="ContactUs.php">Contact us</a></li>
@@ -73,7 +69,7 @@
           </div>
 
           <div class="col-lg-4 col-md-6 footer-links">
-            <h4>Our Services</h4>
+            <h4 style="font-weight:bold">Our Services</h4>
             <ul>
               <li><i class="bx bx-chevron-right"></i> <a href="Trekking.php">Trekking</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="PeakClimbing.php">Peak Climbing</a></li>
@@ -81,6 +77,12 @@
               <li><i class="bx bx-chevron-right"></i> <a href="AdventureSports.php">Adventures Sports</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="Volunteering.php">Volunteering</a></li>
             </ul>
+            <h4 style="margin-top: 10px; font-weight:bold" >Our Partners</h4>
+            <div class="col-sm" style="padding-left: 10px; margin:10px 0px 0px 10px">
+              <a href="https://www.welcomenepal.com/"><img src="images/footer1.png"></a>
+              <a href="https://www.taan.org.np/"><img src="images/footer3.png"></a>
+              <a href="https://www.nepalmountaineering.org/"><img src="images/footer2.png"></a>
+    </div>
           </div>
        
 

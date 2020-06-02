@@ -48,7 +48,7 @@
 		<div class="container">
 			<div class="row d-flex align-items-center"><hr>
             <div class="col-md-6 d-md-block d-none">
-              <a href="index.php"><img src="images/logo.png"></a>
+              <a href="index.php"><img src="images/img/logo1.jpg"></a>
             </div>
             <div class="col-md-6">
               <div class="d-flex justify-content-md-end justify-content-between">
@@ -56,11 +56,12 @@
 				<div class="info-box">
 					<div class="info-box-content" style="border-right-style: solid;border-right-width: 2px;padding-right: 10px; padding-left:10px;">
 						<p class="info-box-title"><i class="fas fa-phone"></i>  Call Us</p>
-						<p class="info-box-subtitle">+9779849590899</p>
+            <!-------<p class="info-box-subtitle"><a href="tel:+9779849590899">+9779849590899</a></p>--------->
+            <a href="tel:+9779849590899" onclick="ga('send', 'event', { eventCategory: 'Contact', eventAction: 'Call', eventLabel: 'Mobile Button'});"><p class="call-button">+9779849590899</p></a>
 					</div>
 				</div>
 				<div class="info-box">
-					<div class="info-box-content"style="padding-left:10px;">
+					<div class="info-box-content"style="padding-left:5px;">
 						<p class="info-box-title"><i class="fas fa-envelope"></i>  Email Us</p>
 						<p class="info-box-subtitle">adventurekora@gmail.com</p>
 					</div>
@@ -73,7 +74,7 @@
 	<!-------------------navigation bar---------------------->
 	<nav class="navbar navbar-expand-sm bg-dark navbar-dark">
         <!-- Brand -->
-        <a class="navbar" href="index.php"><img src="images/kora.png"></a>
+       
 		  <!-- Links -->
               <ul class="navbar-nav">
                 <li class="nav-item">
@@ -112,7 +113,7 @@
                 </li>
 				<div class="search-container">
                    <form action="/action_page.php">
-                       <input type="text" placeholder="Search.." name="search">
+                       <input type="text" placeholder="Search" name="search">
                        <button type="submit"><i class="fa fa-search"></i></button>
                     </form>
                 </div>

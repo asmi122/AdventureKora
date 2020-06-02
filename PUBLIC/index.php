@@ -335,14 +335,6 @@
 		</div>
 	</div>
 
-<!-----------------------divider---------------------------->
-<div class="divider">
-   <div class="container-fluid">
-	   <div class="row">
-	   <h3>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<i class="fas fa-box-open"></i>  Our Partnors</h3>
-        </div>
-    </div>
-</div>
 
 
 	<!-- Footer Start -->
